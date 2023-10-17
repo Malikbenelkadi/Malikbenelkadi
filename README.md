@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Malik</h1>
 <h3 align="center">Passionate about artificial intelligence and programming, I am currently looking for opportunities to put my skills and passion into practice.</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=malikbenelkadi" alt="malikbenelkadi" /></a> </p>
 
-- 🌱 I’m currently learning **C++ and React**
+
+- 🌱 I’m currently learning **IA AND DATA Scientist**
 
 - 👨‍💻 All of my projects are available at [https://ahmed-malik-ben-elkadi.students-laplateforme.io/index.html](https://ahmed-malik-ben-elkadi.students-laplateforme.io/index.html)
 
